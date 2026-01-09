@@ -59,9 +59,10 @@ streamlit run events_app.py
 
 ## 📬 Contact
 
-Created by [Jakki Rajasekhar Ramana](https://github.com/JakkiRajasekharRamana)  
+Created by [Jakki Rajasekhar Ramana](https://github.com/saicharandas2005)  
 For any queries or collaboration ideas, feel free to open an issue or connect!
 
 ---
 
 > *Empowering cities through AI.* 🌐
+
